@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1789048481 source:e:\21\searchx\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+
+1789049546 source:e:\21\searchx\textprocessor.cpp
+	"TextProcessor.h"
+	<fstream>
+	<sstream>
+	<cctype>
+
+1789049550 e:\21\searchx\textprocessor.h
+	<string>
+	<vector>
+
+1789052200 source:e:\21\searchx\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1789052128 e:\21\searchx\linkedlist.h
+	<string>
+
+1789057754 source:e:\21\searchx\hashtable.cpp
+	"HashTable.h"
+	<iostream>
+
+1789058111 e:\21\searchx\hashtable.h
+	<string>
+
+1789058111 source:e:\21\searchx\searchindex.cpp
+	"SearchIndex.h"
+	<iostream>
+	<vector>
+
+1789058111 e:\21\searchx\searchindex.h
+	<string>
+	"HashTable.h"
+	"TextProcessor.h"
+
